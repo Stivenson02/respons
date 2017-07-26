@@ -1,0 +1,33 @@
+.logo2{
+	width:300px;
+	margin:0 auto 35px;
+}
+
+
+.link2{
+	padding:15px 35px;
+	background:#ed940c;
+	color:#fff !important;
+	font-size:16px;
+	font-weight:400;
+	font-family: 'Montserrat', sans-serif;
+	display:inline-block;
+	border-radius:3px;
+	text-transform:uppercase;
+	line-height:25px;
+	margin-bottom:20px;
+	transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+}
+.link2:hover {
+	text-decoration:none;
+	color:#fff !important;
+	background:#1e223d;
+}
+
+.link2:active, .link:focus {
+	background: #fff;
+	text-decoration:none;
+	color:#000 !important;
+}
